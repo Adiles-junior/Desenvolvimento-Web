@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="titulo_principal">Barber Designer</string>
+    <string name="nome_parceiro">Nome do Parceiro</string>
+    <string name="modelos_cortes">Tipos de Cortes</string>
+    <string name="Agendamento">Data de Nascimento</string>
+    <string name="barbeiros">Barbeiro Disponiveis Dias</string>
+    <string name="txt_button_cad">Cadastrar</string>
+    <string name="agendamento">Agendamento</string>
+</resources>
