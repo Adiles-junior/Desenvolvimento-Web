@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="titulo_principal">Barber Designer</string>
+    <string name="nome_parceiro">Nome do Parceiro</string>
+    <string name="modelos_cortes">Tipos de Cortes</string>
+    <string name="Agendamento">Data de Nascimento</string>
+    <string name="barbeiros">Barbeiro Disponiveis Dias</string>
+    <string name="txt_button_cad">Cadastrar</string>
+    <string name="agendamento">Agendamento</string>
+    <string name="cep">CEP</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="complemento">Complemento</string>
+    <string name="bairro">Bairro</string>
+    <string name="localidade">Localidade</string>
+    <string name="uf">UF</string>
+    <string name="n_mero">Número</string>
+    <string name="buscar_cep">Buscar CEP</string>
+</resources>
